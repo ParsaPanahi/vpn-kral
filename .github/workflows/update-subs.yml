@@ -1,0 +1,42 @@
+name: ساخت سابسکریپشن kral-vpn
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+
+jobs:
+  build_subs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: دانلود و ترکیب بهترین ساب‌ها
+        run: |
+          # دانلود از 4 منبع قوی و به‌روز که مخصوص ایران هستن
+          curl -L https://raw.githubusercontent.com/Farid-Karimi/Config-Collector/main/mixed_iran.txt -O
+          curl -L https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/mixed_iran.txt -O
+          curl -L https://raw.githubusercontent.com/balochscript/free-vpn-configs/gh-pages/subscription-realdelay.txt -O
+          curl -L https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/countries/IR.txt -O
+
+          # همه رو با هم توی یه فایل بزرگ ترکیب کن
+          cat mixed_iran.txt >> all_subs.txt
+          cat IR.txt >> all_subs.txt
+          cat subscription-realdelay.txt >> all_subs.txt
+
+          # اسم همه سرورها رو به @kraltm Free Server V2ray تغییر بده
+          sed -i 's/@[^ ]*/@kraltm Free Server V2ray/g' all_subs.txt
+          sed -i 's/#[^ ]*/# @kraltm Free Server V2ray/g' all_subs.txt
+
+          # فایل نهایی رو با اسم kral-subs.txt ذخیره کن
+          mv all_subs.txt kral-subs.txt
+
+      - name: ذخیره در مخزن
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add kral-subs.txt
+          git diff --staged --quiet || git commit -m "به‌روزرسانی خودکار ساب kral-vpn"
+          git push

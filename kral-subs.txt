@@ -4,7 +4,6 @@ vless://fe75304a-2e17-4eae-b5ce-05b39aff83b2@kraltm Free Server V2ray
 vless://fcf3f42a-1b88-e1b1-968f-c5ad00000000@kraltm Free Server V2ray
 vless://fcb71621-4079-41be-a850-9519d0dd90cd@kraltm Free Server V2ray
 vless://fc841f80-9a9f-4e4c-b5ca-c909b422a639@kraltm Free Server V2ray
-vless://fc841f80-9a9f-4e4c-b5ca-c909b422a639@kraltm Free Server V2ray
 vless://fc7f5780-4c4e-11f1-a3f8-b58432c62d9c@kraltm Free Server V2ray
 vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@kraltm Free Server V2ray
 vless://fc03a9a8-ef0f-5794-e119-0c3b68b178e8@kraltm Free Server V2ray
@@ -12,7 +11,6 @@ vless://fc03a9a8-ef0f-5794-e119-0c3b68b178e8@kraltm Free Server V2ray
 vless://fc03a9a8-ef0f-5794-e119-0c3b68b178e8@kraltm Free Server V2ray
 vless://fc03a9a8-ef0f-5794-e119-0c3b68b178e8@kraltm Free Server V2ray
 vless://fc03a9a8-ef0f-5794-e119-0c3b68b178e8@kraltm Free Server V2ray
-vless://f937575c-35c2-4889-832e-b67935d565d8@kraltm Free Server V2ray
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@kraltm Free Server V2ray
 vless://f6f62b37-e002-42c2-8c32-51fe3da6750f@kraltm Free Server V2ray
 vless://f43bbd21-6560-4d0f-9f25-5c477c916260@kraltm Free Server V2ray
@@ -69,12 +67,9 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@kraltm Free Server V2ray
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@kraltm Free Server V2ray
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@kraltm Free Server V2ray
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@kraltm Free Server V2ray
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@kraltm Free Server V2ray
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@kraltm Free Server V2ray
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@kraltm Free Server V2ray
 vless://e3a0e54a-f547-4e44-91a5-09390f541037@kraltm Free Server V2ray
 vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@kraltm Free Server V2ray
-vless://dfb753f8-8f55-41ca-8a8c-19fa33d34d87@kraltm Free Server V2ray
+vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@kraltm Free Server V2ray
 vless://dfb753f8-8f55-41ca-8a8c-19fa33d34d87@kraltm Free Server V2ray
 vless://df301b32-1152-4526-9a63-beedd93d3156@kraltm Free Server V2ray
 vless://def62c86-e2f2-4d13-b1f1-b3c197ed4873@kraltm Free Server V2ray
@@ -90,9 +85,7 @@ vless://d7c4acc4-a577-44f5-a47b-5850996db408@kraltm Free Server V2ray
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@kraltm Free Server V2ray
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@kraltm Free Server V2ray
 vless://d6181667-9f87-420e-9ef1-002b811a43cc@kraltm Free Server V2ray
-vless://d6181667-9f87-420e-9ef1-002b811a43cc@kraltm Free Server V2ray
 vless://d51ed55c-d6dd-400b-aaf6-017c33969bfe@kraltm Free Server V2ray
-vless://d4aad26f-70b6-4411-8517-17f7b4281886@kraltm Free Server V2ray
 vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@kraltm Free Server V2ray
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@kraltm Free Server V2ray
 vless://d205ae68-0819-473c-b425-6c5947ac2f8d@kraltm Free Server V2ray
@@ -101,7 +94,6 @@ vless://d0f52d7e-6e95-4b58-b100-da49b298bc96@kraltm Free Server V2ray
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@kraltm Free Server V2ray
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@kraltm Free Server V2ray
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@kraltm Free Server V2ray
-vless://cdda63c7-22ad-453f-91fd-cc2ecd352a86@kraltm Free Server V2ray
 vless://cdda63c7-22ad-453f-91fd-cc2ecd352a86@kraltm Free Server V2ray
 vless://cd3d0650-a767-47f2-9b1a-dedc1aceafc9@kraltm Free Server V2ray
 vless://cd0e14f8-b4d4-4a60-b23d-32f4037856b9@kraltm Free Server V2ray
@@ -123,6 +115,7 @@ vless://c387b0f2-5d9e-4c95-882d-1d5eeb443ce2@kraltm Free Server V2ray
 vless://c381ed79-f3c9-4028-85ae-687795d89ece@kraltm Free Server V2ray
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@kraltm Free Server V2ray
 vless://c34c6869-e454-4413-a7b2-052ba4a42fd5@kraltm Free Server V2ray
+vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@kraltm Free Server V2ray
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@kraltm Free Server V2ray
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@kraltm Free Server V2ray
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@kraltm Free Server V2ray
@@ -183,7 +176,6 @@ vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@kraltm Free Server V2ray
 vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@kraltm Free Server V2ray
 vless://ac64c5d1-45fa-4a0b-83ee-df89fe433006@kraltm Free Server V2ray
 vless://ab790718-e250-4813-98e5-af2c9dd516c5@kraltm Free Server V2ray
-vless://ab790718-e250-4813-98e5-af2c9dd516c5@kraltm Free Server V2ray
 vless://aa5b231c-4e18-4ae6-b83c-a293f51c0dfa@kraltm Free Server V2ray
 vless://a967fcf9-ebd0-487e-82ed-49ea1329d8b6@kraltm Free Server V2ray
 vless://a9160eba-23cd-407d-8cb3-39a2bc43148c@kraltm Free Server V2ray
@@ -215,7 +207,6 @@ vless://InternetAzadRobot@kraltm Free Server V2ray
 vless://9f2ecebe-3a52-460e-80ac-74a21fffdaf7@kraltm Free Server V2ray
 vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@kraltm Free Server V2ray
 vless://99f30393-c053-4adb-a3cb-2e99e2ac9f55@kraltm Free Server V2ray
-vless://99f30393-c053-4adb-a3cb-2e99e2ac9f55@kraltm Free Server V2ray
 vless://98a0fab4-3be2-48ae-a99e-3d812315e11b@kraltm Free Server V2ray
 vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@kraltm Free Server V2ray
 vless://97b31214-e69f-a41f-1512-1063f68fc2c7@kraltm Free Server V2ray
@@ -225,8 +216,8 @@ vless://96955608-9bb7-4f1a-8500-a5d0ee4925a2@kraltm Free Server V2ray
 vless://96955608-9bb7-4f1a-8500-a5d0ee4925a2@kraltm Free Server V2ray
 vless://96955608-9bb7-4f1a-8500-a5d0ee4925a2@kraltm Free Server V2ray
 vless://95e8532b-cc69-42d4-9553-e3c23292b15b@kraltm Free Server V2ray
+vless://95e8532b-cc69-42d4-9553-e3c23292b15b@kraltm Free Server V2ray
 vless://9500cf8b-020a-4a70-906c-e14bb5375875@kraltm Free Server V2ray
-vless://94ec49de-2556-4833-a95c-57ffd529bdd1@kraltm Free Server V2ray
 vless://94ec49de-2556-4833-a95c-57ffd529bdd1@kraltm Free Server V2ray
 vless://91748616-e778-464c-bbda-be0df3dbf166@kraltm Free Server V2ray
 vless://90235096-9296-3d36-c77c-715577598fd5@kraltm Free Server V2ray
@@ -235,7 +226,6 @@ vless://90235096-9296-3d36-c77c-715577598fd5@kraltm Free Server V2ray
 vless://90235096-9296-3d36-c77c-715577598fd5@kraltm Free Server V2ray
 vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@kraltm Free Server V2ray
 vless://900606a3-cf07-4680-a589-f81f039e3a85@kraltm Free Server V2ray
-vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@kraltm Free Server V2ray
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@kraltm Free Server V2ray
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@kraltm Free Server V2ray
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@kraltm Free Server V2ray
@@ -284,7 +274,6 @@ vless://8d61925a-3210-4551-9bdb-bc78c5a8be7f@kraltm Free Server V2ray
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@kraltm Free Server V2ray
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@kraltm Free Server V2ray
 vless://8ba62cb0-d3ed-4328-a62c-fdfd20b586fd@kraltm Free Server V2ray
-vless://8ba62cb0-d3ed-4328-a62c-fdfd20b586fd@kraltm Free Server V2ray
 vless://8ba5361f-2d12-40fe-9f33-eca6847f1475@kraltm Free Server V2ray
 vless://8b9bcf1d-6031-430a-a5f4-11a633d04f16@kraltm Free Server V2ray
 vless://884137ff-040f-49e2-9719-50abc0960115@kraltm Free Server V2ray
@@ -299,15 +288,12 @@ vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@kraltm Free Server V2ray
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@kraltm Free Server V2ray
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@kraltm Free Server V2ray
 vless://7e083c76-a611-4981-99d5-8220910c2bfc@kraltm Free Server V2ray
-vless://7e083c76-a611-4981-99d5-8220910c2bfc@kraltm Free Server V2ray
-vless://7e083c76-a611-4981-99d5-8220910c2bfc@kraltm Free Server V2ray
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@kraltm Free Server V2ray
 vless://7836539f-7b61-4462-a254-04c95e9a8393@kraltm Free Server V2ray
 vless://73eed38e-09ea-4c07-aa95-c53684400d68@kraltm Free Server V2ray
 vless://73e08fcb-a0c7-45d0-b55d-f78c903c64a6@kraltm Free Server V2ray
 vless://73e08fcb-a0c7-45d0-b55d-f78c903c64a6@kraltm Free Server V2ray
 vless://73e08fcb-a0c7-45d0-b55d-f78c903c64a6@kraltm Free Server V2ray
-vless://738a14c6-c1f6-4127-9368-4ca023e4d878@kraltm Free Server V2ray
 vless://738a14c6-c1f6-4127-9368-4ca023e4d878@kraltm Free Server V2ray
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@kraltm Free Server V2ray
 vless://6d3b8cac-9d1c-4219-b282-581b76341060@kraltm Free Server V2ray
@@ -325,16 +311,14 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@kraltm Free Server V2ray
 vless://61c5d0bf-b584-494b-ac41-c33cb1804515@kraltm Free Server V2ray
 vless://60ba3369-9a78-40fe-98c3-233a6f107043@kraltm Free Server V2ray
 vless://5ebb8895-969e-4374-9e68-6dc9f550fa1f@kraltm Free Server V2ray
-vless://5ebb8895-969e-4374-9e68-6dc9f550fa1f@kraltm Free Server V2ray
 vless://5e9d217c-0f9f-4c8c-aa79-a600baa8765b@kraltm Free Server V2ray
 vless://5e042049-f74d-4ccc-a3ac-db27bca2ce99@kraltm Free Server V2ray
 vless://5bb07942-ca80-4577-acd0-e5935c3cd523@kraltm Free Server V2ray
 vless://5b9a66af-9c80-45ec-ab0d-a206aaa8a518@kraltm Free Server V2ray
+vless://5b9a66af-9c80-45ec-ab0d-a206aaa8a518@kraltm Free Server V2ray
 vless://59525c39-e731-4c27-bc9e-6d8cef67572c@kraltm Free Server V2ray
 vless://592c1abf-d832-4964-99bb-115e42b95fc4@kraltm Free Server V2ray
-vless://592c1abf-d832-4964-99bb-115e42b95fc4@kraltm Free Server V2ray
 vless://575c2683-dc3f-402a-98f7-1a3412b210ca@kraltm Free Server V2ray
-vless://5710bc50-f5ff-4d19-a3f5-067959ed2644@kraltm Free Server V2ray
 vless://5710bc50-f5ff-4d19-a3f5-067959ed2644@kraltm Free Server V2ray
 vless://5710bc50-f5ff-4d19-a3f5-067959ed2644@kraltm Free Server V2ray
 vless://56e45926-3e33-4f18-9b61-b293dadce5c6@kraltm Free Server V2ray
@@ -344,8 +328,6 @@ vless://536d0d54-53a5-455a-ad7c-a525d8ff629f@kraltm Free Server V2ray
 vless://518a99df-54f6-4f42-819d-b60abd880edf@kraltm Free Server V2ray
 vless://518a99df-54f6-4f42-819d-b60abd880edf@kraltm Free Server V2ray
 vless://518a99df-54f6-4f42-819d-b60abd880edf@kraltm Free Server V2ray
-vless://50e636af-b554-4526-94ad-d0f4b34adecc@kraltm Free Server V2ray
-vless://50e636af-b554-4526-94ad-d0f4b34adecc@kraltm Free Server V2ray
 vless://50e636af-b554-4526-94ad-d0f4b34adecc@kraltm Free Server V2ray
 vless://50e636af-b554-4526-94ad-d0f4b34adecc@kraltm Free Server V2ray
 vless://50e636af-b554-4526-94ad-d0f4b34adecc@kraltm Free Server V2ray
@@ -381,7 +363,6 @@ vless://47b3baf9-e1f7-4fc7-b720-fc96b570afd9@kraltm Free Server V2ray
 vless://47b3baf9-e1f7-4fc7-b720-fc96b570afd9@kraltm Free Server V2ray
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@kraltm Free Server V2ray
 vless://461d2ab9-6fcd-4d21-b41a-ba424728a2f5@kraltm Free Server V2ray
-vless://461d2ab9-6fcd-4d21-b41a-ba424728a2f5@kraltm Free Server V2ray
 vless://450340b0-e455-4e4b-9325-64244338a795@kraltm Free Server V2ray
 vless://450340b0-e455-4e4b-9325-64244338a795@kraltm Free Server V2ray
 vless://450340b0-e455-4e4b-9325-64244338a795@kraltm Free Server V2ray
@@ -395,14 +376,12 @@ vless://42fef924-2cbc-4a41-9b95-0ea9b4ff850e@kraltm Free Server V2ray
 vless://42fef924-2cbc-4a41-9b95-0ea9b4ff850e@kraltm Free Server V2ray
 vless://41bc5a50-7c41-4078-9a2a-611ab1c6dddb@kraltm Free Server V2ray
 vless://41b903e0-7d0a-45d0-9b29-83086024a88b@kraltm Free Server V2ray
-vless://41784775-8846-4579-9d9d-9ad6ea802e2e@kraltm Free Server V2ray
 vless://40b46f64-d8a5-4496-b86f-1d6db7d4bf39@kraltm Free Server V2ray soul# @kraltm Free Server V2ray
 vless://4077de3d-64cb-41cb-bee2-9178210e5fb4@kraltm Free Server V2ray
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@kraltm Free Server V2ray soul# @kraltm Free Server V2ray
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@kraltm Free Server V2ray
 vless://3d0135ce-97f0-4b2f-90c3-e8aaa01be795@kraltm Free Server V2ray
 vless://3d0135ce-97f0-4b2f-90c3-e8aaa01be795@kraltm Free Server V2ray
-vless://3cc60df5-de1f-4af8-bc4a-653c912dbb65@kraltm Free Server V2ray
 vless://3cc60df5-de1f-4af8-bc4a-653c912dbb65@kraltm Free Server V2ray
 vless://3ba9dc6a-81e9-44fc-8d98-2d72c87a74ae@kraltm Free Server V2ray
 vless://3b715892-8610-4fdc-9086-647b36af5443@kraltm Free Server V2ray
@@ -447,7 +426,6 @@ vless://28d0edc6-93c9-4465-bac9-720274d8b8c4@kraltm Free Server V2ray
 vless://28d0edc6-93c9-4465-bac9-720274d8b8c4@kraltm Free Server V2ray
 vless://28d0edc6-93c9-4465-bac9-720274d8b8c4@kraltm Free Server V2ray
 vless://28c41b4b-cbae-428f-b080-465c853c7b86@kraltm Free Server V2ray
-vless://28c41b4b-cbae-428f-b080-465c853c7b86@kraltm Free Server V2ray
 vless://2860e569-4c06-4950-af3e-3b72d892cdf2@kraltm Free Server V2ray
 vless://27296344-24ea-4293-afa3-ed78c1629e7b@kraltm Free Server V2ray
 vless://26acab49-7cf6-489a-924d-7fae7b643f5a@kraltm Free Server V2ray
@@ -481,13 +459,13 @@ vless://171872df-fe17-4996-b665-902f82053138@kraltm Free Server V2ray
 vless://166ef05e-8ab5-43b7-8910-d1bb0a4326a5@kraltm Free Server V2ray
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@kraltm Free Server V2ray
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@kraltm Free Server V2ray
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@kraltm Free Server V2ray
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@kraltm Free Server V2ray
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@kraltm Free Server V2ray
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@kraltm Free Server V2ray
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@kraltm Free Server V2ray
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@kraltm Free Server V2ray
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@kraltm Free Server V2ray
-vless://1106f8e7-f70a-4541-9136-aca6e7b909ce@kraltm Free Server V2ray
 vless://1106f8e7-f70a-4541-9136-aca6e7b909ce@kraltm Free Server V2ray
 vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@kraltm Free Server V2ray
 vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@kraltm Free Server V2ray
@@ -497,7 +475,6 @@ vless://0fdee718-bf74-48d3-967d-ab7a0801a5c1@kraltm Free Server V2ray
 vless://0fdee718-bf74-48d3-967d-ab7a0801a5c1@kraltm Free Server V2ray
 vless://0fc3eba4-2774-4c99-cfc7-c38b007908b0@kraltm Free Server V2ray
 vless://0d1c3cee-2952-4a3e-a03e-fbe99d32dc72@kraltm Free Server V2ray
-vless://0bcec952-a452-43ed-9468-4547b9f5dfc4@kraltm Free Server V2ray
 vless://09aae7ad-8549-4713-af25-64b9e8d5f343@kraltm Free Server V2ray
 vless://092e5bb7-bbe3-44da-a46d-0bea017a9c14@kraltm Free Server V2ray
 vless://086422b2-3347-45f8-b527-d9e1be25dc56@kraltm Free Server V2ray
@@ -519,13 +496,10 @@ vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@kraltm Free Server V2ray
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@kraltm Free Server V2ray
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@kraltm Free Server V2ray
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@kraltm Free Server V2ray
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@kraltm Free Server V2ray
 vless://05f0037e-bf24-49e6-8c71-5560e9324144@kraltm Free Server V2ray
 vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@kraltm Free Server V2ray
 vless://0047a8bc-0025-4d45-899b-c75c669f3ede@kraltm Free Server V2ray
 trojan://s5Wz4l25DH@kraltm Free Server V2ray
-trojan://s5Wz4l25DH@kraltm Free Server V2ray
-trojan://q4Trk8jVIO@kraltm Free Server V2ray
 trojan://q4Trk8jVIO@kraltm Free Server V2ray
 trojan://oeaQHjIg021hag3UB1gHR60iA1iaNSs2@kraltm Free Server V2ray
 trojan://humanity@kraltm Free Server V2ray
@@ -541,13 +515,10 @@ trojan://humanity@kraltm Free Server V2ray
 trojan://humanity@kraltm Free Server V2ray
 trojan://humanity@kraltm Free Server V2ray
 trojan://hJTiRo2T5o@kraltm Free Server V2ray
-trojan://hJTiRo2T5o@kraltm Free Server V2ray
 trojan://dc0ebcb2-c103-466a-bd30-be492c477379@kraltm Free Server V2ray
 trojan://Telegram_healer_config@kraltm Free Server V2ray
 trojan://Telegram_healer_config@kraltm Free Server V2ray
 trojan://SoKUNUvpyk@kraltm Free Server V2ray
-trojan://SoKUNUvpyk@kraltm Free Server V2ray
-trojan://RTjaF02TgK@kraltm Free Server V2ray
 trojan://RTjaF02TgK@kraltm Free Server V2ray
 trojan://Mitivpn@kraltm Free Server V2ray
 trojan://MiTiVPN@kraltm Free Server V2ray
@@ -560,21 +531,16 @@ trojan://MiTiVPN@kraltm Free Server V2ray
 trojan://MiTiVPN@kraltm Free Server V2ray
 trojan://MITIVPN@kraltm Free Server V2ray
 trojan://HnqZFFyzQE@kraltm Free Server V2ray
-trojan://HnqZFFyzQE@kraltm Free Server V2ray
-trojan://Ez25G5kd5d@kraltm Free Server V2ray
 trojan://Ez25G5kd5d@kraltm Free Server V2ray
 trojan://8vQyqW0iW7@kraltm Free Server V2ray
-trojan://8vQyqW0iW7@kraltm Free Server V2ray
 trojan://7WL8WvrBRG@kraltm Free Server V2ray
-trojan://7WL8WvrBRG@kraltm Free Server V2ray
-trojan://5L6dD8XskT@kraltm Free Server V2ray
 trojan://5L6dD8XskT@kraltm Free Server V2ray
 trojan://521314@kraltm Free Server V2ray
 trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@kraltm Free Server V2ray
 ss://YWVzLTI1Ni1nY206ZmJjZWM3Njk1M2EyZDE3Mw@kraltm Free Server V2ray
 ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@kraltm Free Server V2ray
 ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ@kraltm Free Server V2ray
-ss://YWVzLTI1Ni1nY206WlRVeU56SXpaakF5TlRVMlltVmlZelU0TnpSa1pEUXlNV0l5TVRjMQ@kraltm Free Server V2ray
+ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@kraltm Free Server V2ray
 ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@kraltm Free Server V2ray
 ss://YWVzLTI1Ni1nY206TXpSbFl6QTBaR1kwTmpjMlpqUTJZVFJpTVRnMllUa3pOak00T0dJMQ@kraltm Free Server V2ray
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@kraltm Free Server V2ray
@@ -584,29 +550,21 @@ ss://YWVzLTEyOC1nY206U3lTV0RhUDhybTFORUswd2RMZG9hVjVDbGtTakZEZnc=@kraltm Free Se
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRENTd0ppS20xZ1l0N0F1@kraltm Free Server V2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@kraltm Free Server V2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@kraltm Free Server V2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@kraltm Free Server V2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpudHhiMWpIZ1lsQ0I2Q20y@kraltm Free Server V2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWDI5N0FzMzFiUU1Sc0xQ@kraltm Free Server V2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVEV5WkRJME9HUXdNMlptWmpjNFpUZzFaVEJpWVRObFpUWmtaakl4T0RNPQ@kraltm Free Server V2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTjZYZjBacXdEZUZydDM5VFFyYWVu@kraltm Free Server V2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ@kraltm Free Server V2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@kraltm Free Server V2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ==@kraltm Free Server V2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdkxmV0dlMEFLdks@kraltm Free Server V2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcmZuajExcTV4dmc3Mnkx@kraltm Free Server V2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTWFxbUxKd1dYdGRKUHZwelhEMk1TWWlaclhEd25lcVpiQUVYcVpVdzdSelg3bmRkM3hGTTlDM3U5TmRSWFpQVE5nREJlblBMbjZCNlZyd21vZENTRVFjOFJmdXhCbjg@kraltm Free Server V2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@kraltm Free Server V2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@kraltm Free Server V2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3a3hZVjhmYUxLRnk4cTFT@kraltm Free Server V2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YzgxNWJiODRjNzgxZGE1@kraltm Free Server V2ray
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206djE3bjgvYm4rMzBjWlh2a3dUQkVXanN1ZU8zSDhrUnlVZGdiT0VjRVNzOD06Q1ViRmpneXF4L0UzRE9QeXVyQ3hWeUs1QVVQN1FqQU5BNVNsUHhqL0Fzcz0@kraltm Free Server V2ray
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206djE3bjgvYm4rMzBjWlh2a3dUQkVXanN1ZU8zSDhrUnlVZGdiT0VjRVNzOD06Q1ViRmpneXF4L0UzRE9QeXVyQ3hWeUs1QVVQN1FqQU5BNVNsUHhqL0Fzcz0@kraltm Free Server V2ray
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bVhNaC82cUpPQ0VGVTE1MHVpbVI5WHNudWRuTDM4Zlhrc2g4TXFFVy9Wcz06RndkbS9MRGFxQUhJOWpNcStIUjFlK2tBSVFLYzFLeXVnNzQ4S1lseldVcz0@kraltm Free Server V2ray
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bVhNaC82cUpPQ0VGVTE1MHVpbVI5WHNudWRuTDM4Zlhrc2g4TXFFVy9Wcz06RndkbS9MRGFxQUhJOWpNcStIUjFlK2tBSVFLYzFLeXVnNzQ4S1lseldVcz0@kraltm Free Server V2ray
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bEVqNDI2V013cklhd0NSTzA5V0M2aHZWWWdhK1cwVWFJTlJWM0JHNkRhUT06SUpOdy9UYnlrZkJ0eWExeXNJMDE1K25VTlMvWG5POXAwcCtFOEdpVkRlND0@kraltm Free Server V2ray
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bEVqNDI2V013cklhd0NSTzA5V0M2aHZWWWdhK1cwVWFJTlJWM0JHNkRhUT06SUpOdy9UYnlrZkJ0eWExeXNJMDE1K25VTlMvWG5POXAwcCtFOEdpVkRlND0@kraltm Free Server V2ray
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Nm5mY2NMRUVwdHhrbURYNW44OEJpZ0NEdEgyYmUvT1QxRHZvK09uSi9FZz06Q2hzbUxKSDNNYmYyNjhFNVUwR2x6aFpHZjF4dUt3L1lJK0dZSzVrWFVPUT0@kraltm Free Server V2ray
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Nm5mY2NMRUVwdHhrbURYNW44OEJpZ0NEdEgyYmUvT1QxRHZvK09uSi9FZz06Q2hzbUxKSDNNYmYyNjhFNVUwR2x6aFpHZjF4dUt3L1lJK0dZSzVrWFVPUT0@kraltm Free Server V2ray
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Mng4NkQxaUtZS1JydDBFQ2dURFg0Z3ByeVQzM20ybGlBUjVLdzJQY3dpcz06VE9MTi92WTRyS3BoTFhlZks1cUtQSjZ6ZkpzckNXcjhJNDZWblo1R3pSWT0@kraltm Free Server V2ray
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Mng4NkQxaUtZS1JydDBFQ2dURFg0Z3ByeVQzM20ybGlBUjVLdzJQY3dpcz06VE9MTi92WTRyS3BoTFhlZks1cUtQSjZ6ZkpzckNXcjhJNDZWblo1R3pSWT0@kraltm Free Server V2ray
 vmess://eyJ2IjoiMiIsInBzIjoiXHVEODNDXHVEREVFXHVEODNDXHVEREY3IElyYW4gXHUwMEI3IEFzaWF0ZWNoIERhdGFcdTIwMjYgfCBbMDAwMDowMDAwOjAwMDA6MDAwMDowMDAwOmZmZmY6NGY3ZjozNjQ0XSAjMiIsImFkZCI6IjAwMDA6MDAwMDowMDAwOjAwMDA6MDAwMDpmZmZmOjRmN2Y6MzY0NCIsInBvcnQiOiI0NDMiLCJpZCI6ImJlNGFhNjEwLTYzYmEtNGExYS05MzIxLWNkY2NiYjM5ODI3NiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJkYXJrbW9kZTIuZG5zZnJlZS5vbmUiLCJwYXRoIjoiLz9lZD0yMDQ4IiwidGxzIjoidGxzIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiXHVEODNDXHVEREVFXHVEODNDXHVEREY3IElyYW4gXHUwMEI3IEFzaWF0ZWNoIERhdGFcdTIwMjYgfCBbMDAwMDowMDAwOjAwMDA6MDAwMDowMDAwOmZmZmY6NGY3ZjozNjQ0XSAjMyIsImFkZCI6IjAwMDA6MDAwMDowMDAwOjAwMDA6MDAwMDpmZmZmOjRmN2Y6MzY0NCIsInBvcnQiOiI0NDMiLCJpZCI6InZwbndsZkB2cG53bGYiLCJhaWQiOjAsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZGFya21vZGUyLmRuc2ZyZWUub25lIiwicGF0aCI6Ii8/ZWQ9MjA0OCIsInRscyI6InRscyJ9
